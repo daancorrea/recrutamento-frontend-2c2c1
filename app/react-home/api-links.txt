@@ -1,0 +1,8 @@
+BaseURL for images:
+https://image.tmdb.org/t/p/w500/ + backdrop_path
+
+BaseURL for request movies:
+https://api.themoviedb.org/3/search/movie?api_key=<api_key>&query=<title_movie_in_English>
+
+Example:
+https://api.themoviedb.org/3/search/movie?api_key=9c58fa52cd7497f1876ce300486c469e&query=the+avengers
