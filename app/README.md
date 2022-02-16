@@ -1,4 +1,11 @@
-# USO 
+# Sobre o projeto:
+
+Projeto criado utilizando single-spa, React, TypeScript, Material Ui e React Query.
+<br>
+Objetivo é buscar pelo título em uma API de filmes e retornar os filmes com "titulo", "foto"(se possuir), "descrição"(se possuir) e "avaliação". 
+
+
+# Uso 
 
 Entre na pasta `spa-orchestrator` rode o comando `yarn`. Espere o download terminar e inicie com o comando `yarn start`.
 
